@@ -85,9 +85,6 @@
 /* if the viewport is equal to 1020px or less than that */ 
 @media only screen and (width: 1024px){
     .site-main .subscribe-us-area .subscribe form .bb123{
-        display: block;
-        margin: 1.4rem auto;
-        text-align: center;
         width: 60%;
         margin-left: 20%;
         margin-right: 20%;
